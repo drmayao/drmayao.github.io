@@ -270,7 +270,7 @@ sections:
         - icon: envelope
           icon_pack: fas
           name: Email Me
-          link: '/#contact'
+          link: 'mailto:dr.yaoma@gmail.com'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
@@ -281,14 +281,14 @@ sections:
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
