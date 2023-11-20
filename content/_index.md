@@ -260,8 +260,9 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/YMaLonghorn'
-          - icon: envelope
+        - icon: envelope
           icon_pack: fas
+          name: Email Me
           link: '/#contact'
         # - icon: skype
         #   icon_pack: fab
