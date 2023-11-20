@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yao Ma
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yao
+last_name: Ma
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Controls Systems Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Bose
+    url: https://www.bose.com/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include system dynamics and control, autonomous systems, and machine learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - System Dynamics and Control
+  - Autonomous Systems
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Mechanical Engineering
+      institution: The University of Texas at Austin
+      year: 2019
+    - course: MS in Electrical and Computer Engineering
+      institution: North Carolina State University
+      year: 2013
+    - course: BS in Control Science and Engineering
+      institution: Harbin Institute of Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,19 +96,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/YMaLonghorn
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=2bDsGb8AAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/drmayao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yao-ma-9756b584/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I currently work on developing active noise-canceling headphones and conducting applied research on system dynamics, control, optimization, and digital signal processing at Bose.
+
+Previously I was an assistant professor in mechanical engineering at Texas Tech University, where, together with my students, we ran Mobility Automation Lab and carried out research on modeling, control, and optimization of autonomous systems.
+
+Before that, I got my Ph.D. in Mechanical Engineering from The University of Texas at Austin in 2019, where I completed much of my thesis work on vehicle dynamics, powertrain, intelligent transportation, and driving behaviors modeling.
 {style="text-align: justify;"}
