@@ -242,10 +242,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        The best way to contact me is via email
+        The best way to contact me is via email!
       # Contact (add or remove contact options as necessary)
-      email: dr.yaoma@gmail.com
-      phone: 
+      email: ''
+      phone: ''
       appointment_url: ''
       address:
         street: 100 The Mountain Rd
