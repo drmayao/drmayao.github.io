@@ -247,7 +247,7 @@ sections:
         postcode: '01701'
         country: United States
         country_code: US
-      directions: Global R&D
+      directions: Bose Global R&D
       office_hours:
         - 'Tuesday to Thursday 09:00 to 17:00'
         # - 'Wednesday 09:00 to 10:00'
