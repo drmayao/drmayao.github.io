@@ -120,9 +120,9 @@ social:
 highlight_name: true
 ---
 
-I currently work on developing active noise-canceling headphones and conducting applied research on system dynamics, control, optimization, and digital signal processing at Bose.
+I currently work on developing [active noise-canceling headphones](https://www.bose.com/c/earbuds) and conducting applied research on system dynamics, control, optimization, and digital signal processing at Bose.
 
-Previously I was an assistant professor in mechanical engineering at Texas Tech University, where, together with my students, we ran Mobility Automation Lab and carried out research on modeling, control, and optimization of autonomous systems.
+Previously I was an assistant professor in mechanical engineering at Texas Tech University, where, together with my students, we ran [Mobility Automation Lab](https://yaoma.netlify.app/) and carried out research on modeling, control, and optimization of autonomous systems. Our research was generously supported by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153229&HistoricalAwards=false) and [Texas Tech University](https://www.depts.ttu.edu/research/).
 
-Before that, I got my Ph.D. in Mechanical Engineering from The University of Texas at Austin in 2019, where I completed much of my thesis work on vehicle dynamics, powertrain, intelligent transportation, and driving behaviors modeling.
+Before that, I got my Ph.D. in Mechanical Engineering from [The University of Texas at Austin](https://cockrell.utexas.edu/academics/mechanical-engineering) in 2019, where I completed much of my thesis work on vehicle dynamics, powertrain, intelligent transportation, and driving behaviors modeling.
 {style="text-align: justify;"}
