@@ -7,5 +7,5 @@ authors:
 date: '2019-01-01'
 publishDate: '2023-11-20T18:30:07.989524Z'
 publication_types:
-- report
+- paper-conference
 ---
