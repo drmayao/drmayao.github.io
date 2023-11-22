@@ -255,8 +255,7 @@ sections:
         country: United States
         country_code: US
       directions: Bose Global R&D
-      office_hours:
-        - ''
+      # office_hours:
         # - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
