@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Controls Systems Engineer
+role: Senior Control Systems Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
