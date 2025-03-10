@@ -81,7 +81,7 @@ sections:
           company_logo: 
           location: Lubbock, TX
           date_start: '2022-09-01'
-          date_end: ''  
+          date_end: '2023-05-31'  
         - title: Assistant Professor of Mechanical Engineering
           company: Texas Tech University
           company_url: ''
