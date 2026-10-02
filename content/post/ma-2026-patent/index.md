@@ -1,5 +1,5 @@
 ---
-title: "Patent issued: Reconfigurable unmanned vehicles"
+title: "Patent issued: Reconfigurable Unmanned Vehicles (US 12,654,839 B2)"
 summary: "US 12,654,839 B2 covers a modular UAV and ground-aerial vehicle architecture that adapts its airframe and control configuration to mission requirements."
 date: '2026-10-02'
 lastmod: '2026-10-02'
@@ -16,7 +16,7 @@ categories:
   - Patents
 ---
 
-I am glad to share that **U.S. Patent 12,654,839 B2**, *Reconfigurable unmanned vehicles*, was issued on June 16, 2026. This patent was initially conceived more than five years ago, with my former colleagues Dr. Victor Maldonado and Dr. Donald Docimo, during my time at Texas Tech University. It is thus particularly gratifying to see the patent granted after a long examination process. This also recalls my fond memories of working together with my co-inventors and the fruitful discussions we had about the future of unmanned vehicle design.
+I am glad to share that **U.S. Patent 12,654,839 B2**, *Reconfigurable Unmanned Vehicles*, was issued on June 16, 2026. This patent was initially conceived more than five years ago, with my former colleagues Dr. Victor Maldonado and Dr. Donald Docimo, during my time at Texas Tech University. It is thus particularly gratifying to see the patent granted after a long examination process.
 
 The invention defines a modular architecture for unmanned aerial vehicles (UAVs) and hybrid unmanned ground-aerial vehicles (UGAVs). A common blended-wing-body module provides the central structure, onboard control system, and interfaces for interchangeable components. The disclosed configurations include wing panels optimized for either high-speed/long-range or low-speed/high-endurance missions, vertical-tail modules, and vertical-takeoff-and-landing (VTOL) fin modules. A ground-aerial configuration further incorporates a powertrain and wheel module.
 
