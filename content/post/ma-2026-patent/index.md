@@ -1,7 +1,7 @@
 ---
 title: "Patent issued: Reconfigurable Unmanned Vehicles (US 12,654,839 B2)"
 summary: "US 12,654,839 B2 covers a modular UAV and ground-aerial vehicle architecture that adapts its airframe and control configuration to mission requirements."
-date: '2026-10-02'
+date: '2026-06-16'
 lastmod: '2026-10-02'
 draft: false
 featured: false
